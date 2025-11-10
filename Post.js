@@ -1,3 +1,7 @@
+//DAL - Доступ до даних
+
+
+
 const mongoose = require('mongoose');
 
 const Post = new mongoose.Schema({

@@ -1,7 +1,7 @@
 const Router = require('express');
 const PostController = require("./PostController.js")
-const mongoose = require("mongoose");
-const Post = require("./Post.js");
+//const mongoose = require("mongoose");
+//const Post = require("./Post.js");
 
 const router = new Router();
 

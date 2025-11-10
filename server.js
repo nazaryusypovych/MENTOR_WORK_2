@@ -6,7 +6,7 @@ const DB_URI =`mongodb+srv://user:userpassword@cluster0.8obzove.mongodb.net/?app
 
 
 const app = express();
-const PORT = 3002;
+const PORT = 3003;
 
 app.use(express.json());
 app.use(`/api`, router)
